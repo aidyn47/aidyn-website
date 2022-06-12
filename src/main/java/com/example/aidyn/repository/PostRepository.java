@@ -1,6 +1,6 @@
-package com.example.adahan.repository;
+package com.example.aidyn.repository;
 
-import com.example.adahan.models.Post;
+import com.example.aidyn.models.Post;
 import org.springframework.data.repository.CrudRepository;
 
 public interface PostRepository extends CrudRepository<Post, Long> {

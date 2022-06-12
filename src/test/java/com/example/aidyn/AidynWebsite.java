@@ -1,10 +1,10 @@
-package com.example.adahan;
+package com.example.aidyn;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class AdahanApplicationTests {
+class AidynApplicationTests {
 
     @Test
     void contextLoads() {

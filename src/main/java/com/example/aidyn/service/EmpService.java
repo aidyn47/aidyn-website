@@ -1,7 +1,7 @@
-package com.example.adahan.service;
+package com.example.aidyn.service;
 
 
-import com.example.adahan.models.Post;
+import com.example.aidyn.models.Post;
 
 import java.util.List;
 

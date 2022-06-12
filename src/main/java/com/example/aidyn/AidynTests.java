@@ -1,13 +1,13 @@
-package com.example.adahan;
+package com.example.aidyn;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AdahanApplication {
+public class AidynTests {
 
     public static void main(String[] args) {
-        SpringApplication.run(AdahanApplication.class, args);
+        SpringApplication.run(AidynTests.class, args);
     }
 
 }

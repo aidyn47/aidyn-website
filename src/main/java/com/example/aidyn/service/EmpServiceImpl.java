@@ -1,7 +1,7 @@
-package com.example.adahan.service;
+package com.example.aidyn.service;
 
-import com.example.adahan.models.Post;
-import com.example.adahan.repository.PostRepository;
+import com.example.aidyn.models.Post;
+import com.example.aidyn.repository.PostRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

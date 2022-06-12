@@ -1,4 +1,4 @@
-package com.example.adahan.models;
+package com.example.aidyn.models;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

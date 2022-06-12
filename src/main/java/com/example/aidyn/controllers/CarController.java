@@ -1,8 +1,8 @@
-package com.example.adahan.controllers;
+package com.example.aidyn.controllers;
 
 
-import com.example.adahan.models.Post;
-import com.example.adahan.repository.PostRepository;
+import com.example.aidyn.models.Post;
+import com.example.aidyn.repository.PostRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
